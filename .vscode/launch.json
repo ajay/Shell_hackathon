@@ -5,10 +5,18 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Python: Current File",
+			"name": "Python: Training File",
 			"type": "python",
 			"request": "launch",
-			"program": "${file}",
+			"program": "${workspaceFolder}/lib/Train/main.py",
+			"console": "integratedTerminal",
+			"justMyCode": true
+		},
+		{
+			"name": "Python: Convert File",
+			"type": "python",
+			"request": "launch",
+			"program": "${workspaceFolder}/lib/Convert/main.py",
 			"console": "integratedTerminal",
 			"justMyCode": true
 		}
