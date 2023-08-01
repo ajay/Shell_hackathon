@@ -8,7 +8,7 @@
 			"name": "Python: Training File",
 			"type": "python",
 			"request": "launch",
-			"program": "${workspaceFolder}/lib/Train/main.py",
+			"program": "${workspaceFolder}/lib/train/main.py",
 			"console": "integratedTerminal",
 			"justMyCode": true
 		},
@@ -16,7 +16,7 @@
 			"name": "Python: Convert File",
 			"type": "python",
 			"request": "launch",
-			"program": "${workspaceFolder}/lib/Convert/main.py",
+			"program": "${workspaceFolder}/lib/convert/main.py",
 			"console": "integratedTerminal",
 			"justMyCode": true
 		}
