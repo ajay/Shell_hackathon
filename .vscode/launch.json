@@ -19,6 +19,14 @@
 			"program": "${workspaceFolder}/lib/convert/main.py",
 			"console": "integratedTerminal",
 			"justMyCode": true
+		},
+		{
+			"name": "Python: Visualize File",
+			"type": "python",
+			"request": "launch",
+			"program": "${workspaceFolder}/lib/visualize/main.py",
+			"console": "integratedTerminal",
+			"justMyCode": true
 		}
 	]
 }
